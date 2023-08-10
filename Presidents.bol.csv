@@ -1,4 +1,4 @@
-Country,Name,end,start
+Country,Name,end,star
 Bolivia,Simón Bolívar Palacios,11-aug-1825,06-aug-1825
 Bolivia,Simón Bolívar Palacios,12-aug-1825,11-aug-1825
 Bolivia,Simón Bolívar Palacios,29-dec-1825,12-aug-1825
@@ -58,70 +58,70 @@ Bolivia,Aniceto Arce Ruiz,11-aug-1892,15-aug-1888
 Bolivia,Mariano Baptista Caserta,19-aug-1896,11-aug-1892
 Bolivia,Severo Fernández Alonso,12-apr-1899,19-aug-1896
 Bolivia,José Manuel Pando,25-oct-1899,12-apr-1899
-Bolivia,José Manuel Pando,14-Aug-04,25-oct-1899
-Bolivia,Ismael Montes Gamboa,12-Aug-09,14-Aug-04
-Bolivia,Eliodoro Villazón Montaño,14-Aug-13,12-Aug-09
-Bolivia,Ismael Montes Gamboa,15-Aug-17,14-Aug-13
-Bolivia,José Gutiérrez Guerra,12-Jul-20,15-Aug-17
-Bolivia,Bautista Saavedra Mallea,28-Jan-21,13-Jul-20
-Bolivia,Bautista Saavedra Mallea,03-Sep-25,28-Jan-21
-Bolivia,Felipe Segundo Guzmán,10-Jan-26,03-Sep-25
-Bolivia,Hernando Siles Reyes,28-May-30,10-Jan-26
-Bolivia,Hernando Siles Reyes,28-Jun-30,28-May-30
-Bolivia,Carlos Blanco Galindo,05-Mar-31,28-Jun-30
-Bolivia,Daniel Salamanca Urey,01-Dec-34,05-Mar-31
-Bolivia,José Luis Tejada Sorzano,16-May-36,01-Dec-34
-Bolivia,Germán Busch Becerra,22-May-36,16-May-36
-Bolivia,David Toro Ruilova,13-Jul-37,22-May-36
-Bolivia,Germán Busch Becerra,28-May-38,13-Jul-37
-Bolivia,Germán Busch Becerra,24-Apr-39,28-May-38
-Bolivia,Germán Busch Becerra,23-Aug-39,24-Apr-39
-Bolivia,Carlos Quintanilla Quiroga,15-Apr-40,23-Aug-39
-Bolivia,Enrique Peñaranda del Castillo,20-Dec-43,15-Apr-40
-Bolivia,Gualberto Villarroel López,05-Apr-44,20-Dec-43
-Bolivia,Gualberto Villarroel López,06-Aug-44,05-Apr-44
-Bolivia,Gualberto Villarroel López,21-Jul-46,06-Aug-44
-Bolivia,Néstor Guillén Olmos69?,17-Aug-46,21-Jul-46
-Bolivia,Tomás Monje Gutiérrez,10-Mar-47,17-Aug-46
-Bolivia,Enrique Hertzog Garaizábal,24-Oct-49,10-Mar-47
-Bolivia,Mamerto Urriolagoitia Harriague,16-May-51,24-Oct-49
-Bolivia,Hugo Ballivián Rojas,11-Apr-52,16-May-51
-Bolivia,Víctor Paz Estenssoro,15-Apr-52,11-Apr-52
-Bolivia,Víctor Paz Estenssoro,06-Aug-56,15-Apr-52
-Bolivia,Hernán Siles Zuazo,06-Aug-60,06-Aug-56
-Bolivia,Víctor Paz Estenssoro,06-Aug-64,06-Aug-60
-Bolivia,Víctor Paz Estenssoro,04-Nov-64,06-Aug-64
-Bolivia,René Barrientos Ortuño,05-Nov-64,05-Nov-64
-Bolivia,René Barrientos Ortuño,26-May-65,05-Nov-64
-Bolivia,René Barrientos Ortuño,02-Jan-66,26-May-65
-Bolivia,Alfredo Ovando Candia,02-Jan-66,26-May-65
-Bolivia,Alfredo Ovando Candia,06-Aug-66,02-Jan-66
-Bolivia,René Barrientos Ortuño,27-Apr-69,06-Aug-66
-Bolivia,Luis Adolfo Siles Salinas,26-Sep-69,27-Apr-69
-Bolivia,Alfredo Ovando Candia,06-Oct-70,26-Sep-69
-Bolivia,Juan José Torres,21-Aug-71,07-Oct-70
-Bolivia,Hugo Banzer Suárez,21-Jul-78,21-Aug-71
-Bolivia,Hugo Banzer Suárez,21-Jul-78,21-Jul-78
-Bolivia,Juan Pereda Asbún,24-Nov-78,21-Jul-78
-Bolivia,David Padilla Arancibia,08-Aug-79,24-Nov-78
-Bolivia,Wálter Guevara Arze,01-Nov-79,08-Aug-79
-Bolivia,Alberto Natusch Busch,16-Nov-79,01-Nov-79
-Bolivia,Lydia Gueiler Tejada,17-Jul-80,16-Nov-79
-Bolivia,Luis García Meza,04-Aug-81,17-Jul-80
-Bolivia,Celso Torrelio Villa,04-Sep-81,04-Aug-81
-Bolivia,Celso Torrelio Villa,19-Jul-82,04-Sep-81
-Bolivia,Guido Vildoso Calderón98?,10-Oct-82,21-Jul-82
-Bolivia,Hernán Siles Zuazo,06-Aug-85,10-Oct-82
-Bolivia,Víctor Paz Estenssoro,06-Aug-89,06-Aug-85
-Bolivia,Jaime Paz Zamora,06-Aug-93,06-Aug-89
-Bolivia,Gonzalo Sánchez de Lozada,06-Aug-97,06-Aug-93
-Bolivia,Hugo Banzer Suárez,07-Aug-01,06-Aug-97
-Bolivia,Jorge Quiroga Ramírez,06-Aug-02,07-Aug-01
-Bolivia,Gonzalo Sánchez de Lozada,17-Oct-03,06-Aug-02
-Bolivia,Carlos Mesa Gisbert,09-Jun-05,17-Oct-03
-Bolivia,Eduardo Rodríguez Veltzé,22-Jan-06,09-Jun-05
-Bolivia,Evo Morales Ayma,22-Jan-10,22-Jan-06
-Bolivia,Evo Morales Ayma,22-Jan-15,22-Jan-10
-Bolivia,Evo Morales Ayma,10-Nov-19,22-Jan-15
-Bolivia,Jeanine Áñez Chávez,07-Nov-20,12-Nov-19
-Bolivia,Luis Arce Catacora,,08-Nov-20
+Bolivia,José Manuel Pando,14-aug-1904,25-oct-1899
+Bolivia,Ismael Montes Gamboa,12-aug-1909,14-aug-1904
+Bolivia,Eliodoro Villazón Montaño,14-aug-1913,12-aug-1909
+Bolivia,Ismael Montes Gamboa,15-aug-1917,14-aug-1913
+Bolivia,José Gutiérrez Guerra,12-jul-1920,15-aug-1917
+Bolivia,Bautista Saavedra Mallea,28-jan-1921,13-jul-1920
+Bolivia,Bautista Saavedra Mallea,03-sep-1925,28-jan-1921
+Bolivia,Felipe Segundo Guzmán,10-jan-1926,03-sep-1925
+Bolivia,Hernando Siles Reyes,28-may-1930,10-jan-1926
+Bolivia,Hernando Siles Reyes,28-jun-1930,28-may-1930
+Bolivia,Carlos Blanco Galindo,05-mar-1931,28-jun-1930
+Bolivia,Daniel Salamanca Urey,01-dec-1934,05-mar-1931
+Bolivia,José Luis Tejada Sorzano,16-may-1936,01-dec-1934
+Bolivia,Germán Busch Becerra,22-may-1936,16-may-1936
+Bolivia,David Toro Ruilova,13-jul-1937,22-may-1936
+Bolivia,Germán Busch Becerra,28-may-1938,13-jul-1937
+Bolivia,Germán Busch Becerra,24-apr-1939,28-may-1938
+Bolivia,Germán Busch Becerra,23-aug-1939,24-apr-1939
+Bolivia,Carlos Quintanilla Quiroga,15-apr-1940,23-aug-1939
+Bolivia,Enrique Peñaranda del Castillo,20-dec-1943,15-apr-1940
+Bolivia,Gualberto Villarroel López,05-apr-1944,20-dec-1943
+Bolivia,Gualberto Villarroel López,06-aug-1944,05-apr-1944
+Bolivia,Gualberto Villarroel López,21-jul-1946,06-aug-1944
+Bolivia,Néstor Guillén Olmos69?,17-aug-1946,21-jul-1946
+Bolivia,Tomás Monje Gutiérrez,10-mar-1947,17-aug-1946
+Bolivia,Enrique Hertzog Garaizábal,24-oct-1949,10-mar-1947
+Bolivia,Mamerto Urriolagoitia Harriague,16-may-1951,24-oct-1949
+Bolivia,Hugo Ballivián Rojas,11-apr-1952,16-may-1951
+Bolivia,Víctor Paz Estenssoro,15-apr-1952,11-apr-1952
+Bolivia,Víctor Paz Estenssoro,06-aug-1956,15-apr-1952
+Bolivia,Hernán Siles Zuazo,06-aug-1960,06-aug-1956
+Bolivia,Víctor Paz Estenssoro,06-aug-1964,06-aug-1960
+Bolivia,Víctor Paz Estenssoro,04-nov-1964,06-aug-1964
+Bolivia,René Barrientos Ortuño,05-nov-1964,05-nov-1964
+Bolivia,René Barrientos Ortuño,26-may-1965,05-nov-1964
+Bolivia,René Barrientos Ortuño,02-jan-1966,26-may-1965
+Bolivia,Alfredo Ovando Candia,02-jan-1966,26-may-1965
+Bolivia,Alfredo Ovando Candia,06-aug-1966,02-jan-1966
+Bolivia,René Barrientos Ortuño,27-apr-1969,06-aug-1966
+Bolivia,Luis Adolfo Siles Salinas,26-sep-1969,27-apr-1969
+Bolivia,Alfredo Ovando Candia,06-oct-1970,26-sep-1969
+Bolivia,Juan José Torres,21-aug-1971,07-oct-1970
+Bolivia,Hugo Banzer Suárez,21-jul-1978,21-aug-1971
+Bolivia,Hugo Banzer Suárez,21-jul-1978,21-jul-1978
+Bolivia,Juan Pereda Asbún,24-nov-1978,21-jul-1978
+Bolivia,David Padilla Arancibia,08-aug-1979,24-nov-1978
+Bolivia,Wálter Guevara Arze,01-nov-1979,08-aug-1979
+Bolivia,Alberto Natusch Busch,16-nov-1979,01-nov-1979
+Bolivia,Lydia Gueiler Tejada,17-jul-1980,16-nov-1979
+Bolivia,Luis García Meza,04-aug-1981,17-jul-1980
+Bolivia,Celso Torrelio Villa,04-sep-1981,04-aug-1981
+Bolivia,Celso Torrelio Villa,19-jul-1982,04-sep-1981
+Bolivia,Guido Vildoso Calderón98?,10-oct-1982,21-jul-1982
+Bolivia,Hernán Siles Zuazo,06-aug-1985,10-oct-1982
+Bolivia,Víctor Paz Estenssoro,06-aug-1989,06-aug-1985
+Bolivia,Jaime Paz Zamora,06-aug-1993,06-aug-1989
+Bolivia,Gonzalo Sánchez de Lozada,06-aug-1997,06-aug-1993
+Bolivia,Hugo Banzer Suárez,07-aug-2001,06-aug-1997
+Bolivia,Jorge Quiroga Ramírez,06-aug-2002,07-aug-2001
+Bolivia,Gonzalo Sánchez de Lozada,17-oct-2003,06-aug-2002
+Bolivia,Carlos Mesa Gisbert,09-jun-2005,17-oct-2003
+Bolivia,Eduardo Rodríguez Veltzé,22-jan-2006,09-jun-2005
+Bolivia,Evo Morales Ayma,22-jan-2010,22-jan-2006
+Bolivia,Evo Morales Ayma,22-jan-2015,22-jan-2010
+Bolivia,Evo Morales Ayma,10-nov-2019,22-jan-2015
+Bolivia,Jeanine Áñez Chávez,07-nov-2020,12-nov-2019
+Bolivia,Luis Arce Catacora,,08-nov-2020
