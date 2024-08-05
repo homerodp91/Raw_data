@@ -1,4 +1,4 @@
-Country,President.Name,Term.Start,Term.End
+Country,President_Name,Term_Start,Term_End
 USA,George Washington,1789-04-30,1797-03-04
 USA,John Adams,1797-03-04,1801-03-04
 USA,Thomas Jefferson,1801-03-04,1809-03-04
@@ -44,4 +44,4 @@ USA,Bill Clinton,1993-01-20,2001-01-20
 USA,George Walker Bush,2001-01-20,2009-01-20
 USA,Barack Obama,2009-01-20,2017-01-20
 USA,Donald Trump,2017-01-20,2021-01-20
-USA,Joe Biden,2021-01-20,
+USA,Joe Biden,2021-01-20,2024-01-20
